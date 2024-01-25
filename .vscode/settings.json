@@ -1,0 +1,6 @@
+{
+  "workbench.iconTheme": "ds-icon-theme",
+  "code-runner.executorMap": {
+    "darijascript": "cd $dir && darijascript run $fileName"
+  }
+}
