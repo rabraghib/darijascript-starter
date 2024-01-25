@@ -20,6 +20,10 @@ go install github.com/rabraghib/darijascript@latest
 
 Make sure your Go bin directory is in your system's PATH.
 
-## Install VsCode Extension
+## Install VSCode Extension
 
-Search DarijaScript in the extensions tab of VsCode and install it.
+Search DarijaScript in the extensions tab of VSCode and install it.
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://www.rabraghib.me">Rabyâ Raghib</a></p>
